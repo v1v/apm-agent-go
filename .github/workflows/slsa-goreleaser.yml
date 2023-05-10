@@ -42,4 +42,4 @@ jobs:
     with:
       go-version: 1.19
       config-file: .ci/.slsa-goreleaser.yml
-      upload-tag-name: v2.4.1  # use it for testing purposes
+      upload-tag-name: v2.4.1  # use it for testing purposes.
