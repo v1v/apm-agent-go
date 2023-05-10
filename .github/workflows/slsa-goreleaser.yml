@@ -3,6 +3,9 @@ on:
   push:
     tags:
       - "*"
+    branches:
+      - "test/add-provenance"
+      - "main"
 
 permissions: read-all
 
